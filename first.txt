@@ -1,4 +1,12 @@
 Our best thought came from others
+<<<<<<< Updated upstream
 Letters and social Aims. Quotations and Originality.Ralph Waldo Emerson. 1820-1840.
 It isn't what we say or we think that define us, but what we do.
+=======
+Letters and social Aims. Quotations and Originality.Ralph Waldo Emerson. ca 1800s.
+It is not what we say or we think that define us, but what we do.
+Four score and seven years ago our fathers brought forth on this continent, a new nation, conceived in liberty, and dedicated to the preposition that all men are created equal.
+
+
+>>>>>>> Stashed changes
 
